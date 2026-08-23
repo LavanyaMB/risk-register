@@ -1,0 +1,6 @@
+2026-08-22 22:15:03.428123+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "OWNER" not found; SQL statement:
+select * from owner [42102-224]
+2026-08-22 22:15:23.528791+05:30 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "OWNER" not found; SQL statement:
+select * from OWNER [42102-224]
