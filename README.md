@@ -1,4 +1,4 @@
-# Hyperproof Risk Register
+# Risk Register
 
 A small full-stack Risk Register: a Spring Boot API + a React/TypeScript dashboard for
 creating risks, scoring them, attaching mitigations, and seeing everything prioritized
